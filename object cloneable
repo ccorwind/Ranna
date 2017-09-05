@@ -1,4 +1,18 @@
-public class o{
-
-
+public class Gen{
+  public Gen( int g1, String sg1){
+  int gen1 = g1;
+  String sgen1 = sg1;
+  }
+  private int getGen1(){
+  return gen1;
+  }
+  private void setGen1(int g){
+  gen1 = g;
+  }
+  private String getsgen1(){
+  return sgen1;
+  }
+  private void setsgen1(String sg){
+  sgen1 = sg;
+  }
 }
