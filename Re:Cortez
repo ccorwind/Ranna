@@ -1,0 +1,7 @@
+public class cortez_Sucks_Major_Cockz{
+  public cortez_Sucks_Major_Cockz(){
+  }
+  public static void main(String[] args) {
+    System.out.println("Cortez Sucks Major Cockz");
+ }
+}
